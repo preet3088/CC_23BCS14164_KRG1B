@@ -2,7 +2,6 @@
 #include <vector>
 using namespace std;
 
-// Segment Tree Implementation for Sum Queries
 class SegmentTree {
 public:
     vector<int> tree;
